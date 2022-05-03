@@ -1,6 +1,6 @@
 {
   "name": "ethernaalframe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Apply the Ethernaal Frame on image and save it to png",
   "main": "index.js",
   "scripts": {
