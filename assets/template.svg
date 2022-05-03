@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4026"
+   height="5826"
+   viewBox="0 0 4026 5826"
+   version="1.1"
+   id="ethernaal_frame"
+   sodipodi:docname="template.svg"
+   shape-rendering="crispEdges"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="ethernaal_frame_view"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     showgrid="false"
+     units="px"
+     width="15216.378px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     />
+  <defs
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask_image">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:14.9405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="mask_image_rect"
+         width="3412"
+         height="5055"
+         x="310.01907"
+         y="379.76154"
+         ry="301.06741"/>
+    </mask>
+  </defs>
+  <g
+     id="content_image">
+    <image
+       width="4026"
+       height="5826"
+       preserveAspectRatio="none"
+       xlink:href="placeholder.png"
+       id="nft_image"
+       x="4.5117185e-06"
+       y="3.5937501e-06"
+       style="display:inline"
+       mask="url(#mask_image)" />
+  </g>
+  <g
+     id="frame"
+     transform="translate(477.93488,803.73682)"
+     style="display:inline">
+    <image
+       width="4026"
+       height="5826"
+       preserveAspectRatio="none"
+       xlink:href="frame.png"
+       id="ethernaal_frame_image"
+       x="-477.93488"
+       y="-803.73682"
+       style="display:inline"
+        />
+  </g>
+</svg>

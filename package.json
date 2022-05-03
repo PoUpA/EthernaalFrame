@@ -1,0 +1,18 @@
+{
+  "name": "ethernaalframe",
+  "version": "1.0.2",
+  "description": "Apply the Ethernaal Frame on image and save it to png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PoUpA",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.30.4",
+    "svgexport": "^0.4.2"
+  },
+  "devDependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
