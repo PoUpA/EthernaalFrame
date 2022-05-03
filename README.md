@@ -4,6 +4,12 @@
 
 This is a simple utility tool to render a PNG image with the ethernaal frame.
 
+## Installation
+
+```
+npm install ethernaalframe
+```
+
 ## Usage
 
 ```javascript

@@ -1,3 +1,2 @@
 const saveWithFrame = require("./index.js").saveWithFrame;
-
-saveWithFrame("./input/test.png", false);
+saveWithFrame("./assets/test.png", "./output/test.png", false);
