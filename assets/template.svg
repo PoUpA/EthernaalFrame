@@ -49,8 +49,8 @@
        preserveAspectRatio="none"
        xlink:href="placeholder.png"
        id="nft_image"
-       x="4.5117185e-06"
-       y="3.5937501e-06"
+       x="0"
+       y="0"
        style="display:inline"
        mask="url(#mask_image)" />
   </g>
