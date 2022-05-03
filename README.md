@@ -18,8 +18,11 @@ saveWithFrame(imagePathIn, imgPathOut, invertedColors);
 ```
 
 Parameters are the following :
+
 imagePathIn = Source image (path)
+
 imgPathOut = Output PNG (path)
+
 invertedColors = boolean indicating if the frame should be in white or black color (false = white)
 
 Source image must be 4026x5826 px
