@@ -2,6 +2,7 @@
   "name": "ethernaalframe",
   "version": "1.0.6",
   "description": "Apply the Ethernaal Frame on image and save it to png",
+  "repository": "https://github.com/PoUpA/EthernaalFrame",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
