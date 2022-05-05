@@ -13,12 +13,18 @@ npm install ethernaalframe
 ## Usage
 
 ```javascript
+//For file inputs
 const saveWithFrame = require("ethernaalframe").saveWithFrame;
 let imagePathIn = "test.png";
 let imagePathOut = "framed_test.png";
 let template = "NF2T";
 let invertedColors = false;
 saveWithFrame(imagePathIn, imgPathOut, template, invertedColors);
+
+//For base64 string img
+let b64Img = ""; //base64 string image
+const saveWithFrameB64 = require("ethernaalframe").saveWithFrameB64;
+const framedImage = await saveWithFrameB64(b64Img, template, invertedColors);
 ```
 
 Parameters are the following :
